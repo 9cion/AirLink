@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="docs/images/logo.png" width="40" height="40" align="middle" alt="AirLink logo"> 
+  <img src="docs/images/logo.png" width="100" height="100" align="middle" alt="AirLink logo"> 
 </h1>
 <h1 align="center">
 AirLink
