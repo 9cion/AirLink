@@ -14,6 +14,16 @@ AirLink
   </tr>
 </table>
 
+---
+
+<p align="center">
+  <a href="https://github.com/9cion/AirLink/releases/download/v0.1.0/AirLink-Setup.exe">
+    <strong>⬇ Download for Windows</strong>
+  </a>
+  <br>
+  Windows 10 22H2 / Windows 11 · x64
+</p>
+
 ## Features
 
 - Discover speakers, select one, start/stop streaming and adjust its volume.
